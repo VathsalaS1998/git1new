@@ -1,0 +1,2 @@
+hi this is first code
+of my git session
